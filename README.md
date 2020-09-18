@@ -7,4 +7,4 @@ The  dataset  is  split  into  train  and  test  sets.   The  training  dataset 
 
 # Output
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](Confusion_Matrix.PNG?raw=true "Title")
